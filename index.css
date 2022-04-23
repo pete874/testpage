@@ -1,0 +1,17 @@
+button {
+  width: 300px;
+  height: 60px;
+  color: rgb(236, 26, 26);
+}
+
+#push {
+  background: darkred;
+}
+
+html {
+  background-color: aqua;
+}
+
+#img2 {
+  object-position: 50px 30px;
+}
